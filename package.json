@@ -1,0 +1,14 @@
+{
+  "name": "@gfke/environment-config-webpack-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Panitz <info@stefanpanitz.de> (https://github.com/spanitz)",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
+}
