@@ -1,5 +1,5 @@
 {
-  "name": "@gfke/environment-config-webpack-loader",
+  "name": "environment-config-webpack-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
